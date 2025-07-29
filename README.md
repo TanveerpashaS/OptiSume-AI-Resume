@@ -30,5 +30,7 @@ Optisume (`Optimize` + `Resume`) is an intelligent resume analysis tool designed
 ### 🛠️ Technology Stack
 
  **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ 
  **Routing:**  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+ 
  **Backend,Storage & AI:** ![Puter.js](https://img.shields.io/badge/Puter.js-000000?style=for-the-badge&logo=javascript&logoColor=white) - The powerhouse behind Optisume, handling user authentication, file uploads, and all AI-driven analysis seamlessly within the browser environment.

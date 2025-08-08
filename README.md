@@ -5,6 +5,7 @@
 Optisume (`Optimize` + `Resume`) is an intelligent resume analysis tool designed to help job seekers overcome one of the biggest hurdles in modern job hunting: **Applicant Tracking Systems (<u>ATS</u>)**. A significant percentage of resumes are automatically rejected by <u>ATS</u> bots before ever reaching a human recruiter. Optisume uses AI to score your resume, provide actionable feedback, and help you tailor it to specific job descriptions, drastically increasing your chances of getting shortlisted.
 
 ---
+🔗 [**View the Live Demo**](https://puter.com/app/optisume-ai)
 
 
 ### ✨ Key Features
